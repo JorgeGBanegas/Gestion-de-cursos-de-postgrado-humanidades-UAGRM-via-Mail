@@ -1,6 +1,7 @@
 package proyectoviamail;
 
 import proyectoviamail.datos.BDConexion;
+import proyectoviamail.negocio.POP3;
 
 /**
  *
